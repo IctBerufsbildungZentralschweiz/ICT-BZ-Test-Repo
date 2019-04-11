@@ -1,5 +1,5 @@
 # Test-Repository 
 
-Dieses Git-Repository ist zu Testzwecken erstellt worden. 
+Dieses Git-Repository ist für Schulungs- und Testzwecke erstellt worden. 
 
 
